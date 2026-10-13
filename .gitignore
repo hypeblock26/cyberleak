@@ -8,3 +8,4 @@ venv/
 *.json.backup
 state.json
 parallel_state.json
+github_tokens.json 
